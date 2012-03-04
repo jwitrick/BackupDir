@@ -6,8 +6,8 @@ setup (name = "BackupDir",
        version = "BACKUPDIR_VERSION",
        author = "Justin Witrick",
        author_email = "justin@thewitricks.com",
-       description = "This app is for easily backing up a directory using duplicity"
-       url = "",
+       description = "This app is for easily backing up a directory using duplicity",
+       url = "github.com/jwitrick",
        packages = ['BackupDir'],
        scripts = ['backupdir']
 )
